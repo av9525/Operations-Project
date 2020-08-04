@@ -1,4 +1,4 @@
-# Marketing-Campaigning-Optimization
+# Inventory and Labor Management
 
 ## Introduction
 Innovation in the supply chain over the past few decades has helped grocery stores expand at unprecedented rates. This has created new challenges and opportunities in inventory management and labor management in these stores. One such problem that we are tackling in this project is employee scheduling. The goal of any grocery store is to be as efficient as possible and minimize costs while providing excellent service. There is an optimal requirement of employees at certain roles to maintain this kind of service and by including this in our model we can simulate the minimum cost required per day to run the grocery store. 
